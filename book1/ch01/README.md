@@ -8,6 +8,14 @@ Written at a whim, maybe slightly modified, used for educational purposes.
 
 [Link to chapter online](https://narimiran.github.io/nim-basics/#_basic_data_types)
 
+## Task 1
+
+Original exercise number: exercise 6
+
+> Alice earns $400 every 15 days. Bob earns $3.14 per hour and works 8 hours a
+> day, 7 days a week. After 30 days, has Alice earned more than Bob? (Hint: use
+> relational operators)
+
 # Usage example
 
 ## Compilation
