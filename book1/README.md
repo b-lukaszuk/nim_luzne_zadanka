@@ -1,6 +1,6 @@
 # Description
 
-Selected bits/tasks from ["Nim-basics"](https://narimiran.github.io/nim-basics/) by Nair Miran and contributors.
+Selected bits/tasks from ["Nim Basics"](https://narimiran.github.io/nim-basics/) by Nair Miran and contributors.
 
 Written at a whim, maybe slightly modified, used for educational purposes.
 
