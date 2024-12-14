@@ -8,6 +8,18 @@ Written at a whim, maybe slightly modified, used for educational purposes.
 
 [Link to chapter online](https://narimiran.github.io/nim-basics/#_loops)
 
+## Task 1
+
+Original exercise number: exercise 1
+
+> [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) is a
+> popular mathematical problem with simple rules. First pick a number. If it is
+> odd, multiply it by three and add one; if it is even, divide it by two. Repeat
+> this procedure until you arrive at one. E.g. 5 → odd → 3*5 + 1 = 16 → even →
+> 16 / 2 = 8 → even → 4 → 2 → 1 → end!  Pick an integer (as a mutable variable)
+> and create a loop which will print every step of the Collatz conjecture.
+> (Hint: use div for division)
+
 # Usage example
 
 ## Compilation
