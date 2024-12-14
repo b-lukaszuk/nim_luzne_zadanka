@@ -6,7 +6,9 @@ Written at a whim, maybe slightly modified, used for educational purposes.
 
 # Chapter 1. Basic data types
 
-[Link to chapter online](https://narimiran.github.io/nim-basics/#_basic_data_types)
+[Chapter](https://narimiran.github.io/nim-basics/#_basic_data_types)
+
+[Exercises](https://narimiran.github.io/nim-basics/#_exercises)
 
 ## Task 1
 
