@@ -22,6 +22,13 @@ Original exercise number: 1
 > and create a loop which will print every step of the Collatz conjecture.
 > (Hint: use div for division)
 
+## Task 2
+
+Original exercise number: 4
+
+> [...] you have converted inches to centimeters, and vice versa. Create a
+> conversion table with multiple values.
+
 # Usage example
 
 ## Compilation
