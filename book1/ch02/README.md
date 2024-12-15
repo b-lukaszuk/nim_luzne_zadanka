@@ -12,7 +12,7 @@ Written at a whim, maybe slightly modified, used for educational purposes.
 
 ## Task 1
 
-Original exercise number: exercise 1
+Original exercise number: 1
 
 > [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) is a
 > popular mathematical problem with simple rules. First pick a number. If it is
