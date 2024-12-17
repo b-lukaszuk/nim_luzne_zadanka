@@ -18,4 +18,4 @@ for num in nums:
 
 echo "Some interesting Collatz sequences:"
 for i, cs in collatzSeqs:
-  echo "Sequence ", i+1, ": ", cs
+  echo "Sequence ", i+1, " of length ", len(cs), ": ", cs
