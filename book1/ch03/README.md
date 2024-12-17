@@ -10,6 +10,15 @@ Written at a whim, maybe slightly modified, used for educational purposes.
 
 [Exercises](https://narimiran.github.io/nim-basics/#_exercises_3)
 
+## Task 1
+
+Original exercise number: 1
+
+> Create an empty array which can contain ten integers.
+> - Fill that array with numbers 10, 20, …​, 100. (Hint: use loops)
+> - Print only the elements of that array that are on odd indices (values 20, 40, …​).
+> - Multiply elements on even indices by 5. Print the modified array.
+
 # Usage example
 
 ## Compilation
