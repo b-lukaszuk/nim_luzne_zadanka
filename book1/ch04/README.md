@@ -10,6 +10,14 @@ Written at a whim, maybe slightly modified, used for educational purposes.
 
 [Exercises](https://narimiran.github.io/nim-basics/#_exercises_4)
 
+## Task 1
+
+Original exercise number: 3
+
+> Points in 2D plane can be represented as `tuple[x, y: float]`. Write a
+> procedure which will receive two points and return a new point which is a sum
+> of those two points (add x’s and y’s separately).
+
 # Usage example
 
 ## Compilation
