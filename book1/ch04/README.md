@@ -18,6 +18,16 @@ Original exercise number: 3
 > procedure which will receive two points and return a new point which is a sum
 > of those two points (add x’s and y’s separately).
 
+## Task 2
+
+Original exercise number: 4
+
+Create two procedures `tick` and `tock` which echo out the words "tick" and
+"tock". Have a global variable to keep track of how many times they have run,
+and run one from the other until the counter reaches 20. The expected output is
+to get lines with "tick" and "tock" alternating 20 times. (Hint: use forward
+declarations.)
+
 # Usage example
 
 ## Compilation
