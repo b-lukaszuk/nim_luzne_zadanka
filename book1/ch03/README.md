@@ -29,6 +29,13 @@ Original exercise number: 2
 > - Using the same logic as before, keep adding elements to the sequence until you reach 1
 > - Print the length of the sequence, and the sequence itself
 
+## Task 3
+
+> Find the number in a range from 2 to 100 which will produce the longest Collatz sequence.
+> - For each number in the given range calculate its Collatz sequence
+> - If the length of current sequence is longer than the previous record, save the current length and the starting number as a new record (you can use the tuple (`longestLength`, `startingNumber`) or two separate variables)
+> - Print the starting number which gives the longest sequence, and its length
+
 # Usage example
 
 ## Compilation
