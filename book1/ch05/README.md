@@ -17,6 +17,15 @@ Original exercise number: 1
 > Ask a user for their height and weight. Calculate their BMI. Report them the
 > BMI value and the category.
 
+## Task 2
+
+Original exercise number: 2
+
+> [...] your program asks a user for a starting number.
+> Print the resulting
+Collatz
+> sequence.
+
 # Usage example
 
 ## Compilation
