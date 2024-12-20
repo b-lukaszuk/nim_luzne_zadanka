@@ -4,6 +4,10 @@ Selected bits/tasks from ["Nim Basics"](https://narimiran.github.io/nim-basics/)
 
 Written at a whim, maybe slightly modified, used for educational purposes.
 
+# Status
+
+Completed (20-12-2024).
+
 # Usage example
 
 ## Compilation
