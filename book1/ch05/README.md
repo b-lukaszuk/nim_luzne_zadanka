@@ -10,6 +10,13 @@ Written at a whim, maybe slightly modified, used for educational purposes.
 
 [Exercises](https://narimiran.github.io/nim-basics/#_exercises_5)
 
+## Task 1
+
+Original exercise number: 1
+
+> Ask a user for their height and weight. Calculate their BMI. Report them the
+> BMI value and the category.
+
 # Usage example
 
 ## Compilation
