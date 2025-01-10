@@ -13,6 +13,12 @@ Original exercise number: exercise 3
 
 Write a program that calculates the area of a room. It obtains the length and width of the room from the user.
 
+## Task 2
+
+Original exercise number: exercise 7
+
+Write a program that calculates teh sum of the first `n` positive integers (1:n).
+
 # Usage example
 
 ## Compilation
