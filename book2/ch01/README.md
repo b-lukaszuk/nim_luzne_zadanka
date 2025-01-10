@@ -7,6 +7,12 @@ Written at a whim, maybe slightly modified, used for educational purpose only.
 
 # Chapter 01. Introduction to Programming Exercises.
 
+## Task 1
+
+Original exercise number: exercise 3
+
+Write a program that calculates the area of a room. It obtains the length and width of the room from the user.
+
 # Usage example
 
 ## Compilation
