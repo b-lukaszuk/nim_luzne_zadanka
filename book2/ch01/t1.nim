@@ -1,13 +1,17 @@
+# simple solution, not optimized for speed, not trying to be clever
 import strutils
 
-proc getNumFromUsr(msg: string): float =
+proc getNumGT0FromUsr(msg: string): float =
   var validInput: bool = false
   var num: float = 0.0
   while not validInput:
     try:
       echo msg
       num = readline(stdin).parseFloat()
-      validInput = true
+      if num > 0:
+        validInput = true
+      else:
+        echo "the number must be greater than 0."
     except ValueError:
       echo "the input is not a valid number"
     except:
@@ -20,8 +24,8 @@ proc getRectangleArea(length: float, width: float): float =
 
 proc main() =
   echo "Toy program. It calculates the area of a room.\n"
-  let length: float = getNumFromUsr("Enter length (in meters):")
-  let width: float = getNumFromUsr("Enter width (in meters):")
+  let length: float = getNumGT0FromUsr("Enter length (in meters):")
+  let width: float = getNumGT0FromUsr("Enter width (in meters):")
   echo "\nThe area of the room is ", length, " [m] x ", width, " [m] = ",
       getRectangleArea(length, width), " [m^2]"
   echo "\nThat's all. Goodbye."
