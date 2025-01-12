@@ -19,6 +19,12 @@ Original exercise number: exercise 7
 
 Write a program that calculates teh sum of the first `n` positive integers (1:n).
 
+## Task 3
+
+Original exercise number: exercise 9
+
+Write a program that calculates an account balance after 1, 2, 3 years. With an X% interest rate. Computed annually every year.
+
 # Usage example
 
 ## Compilation
